@@ -1,6 +1,6 @@
 # MotionLayout Codelab
 
-This folder contains the source code for the Motion Layout codelab.
+This contains code obtained from Udacity's course https://classroom.udacity.com/courses/ud940, with a few modifications
 
 ### License
 
